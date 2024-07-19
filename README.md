@@ -1,10 +1,15 @@
 ###
 
-<p align="left">I'm Trina.<br><br>- 🔭 I’m working as Frontend Developer 👩🏾‍💻.<br>- 📚 I'm currently learning Python.<br>- ⚡ In my free time I practice coding in HackerRank. Learn from freeCodeCamp.<br>- 🔖 I love reading reading books.</p>
+<p align="left">
+  - 🔭 I’m Trina, working as Frontend Developer 👩🏾‍💻.<br>
+  - 📚 I'm currently learning Python.<br>
+  - ⚡ In my free time I practice coding in HackerRank. Learn from freeCodeCamp.<br>
+  - 🔖 I love reading reading books.
+</p>
 
 ###
 
-<div align="center">
+<div align="left">
   <a href="https://www.linkedin.com/in/trina-sikdar/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
