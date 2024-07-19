@@ -1,10 +1,11 @@
 ###
 
 <p align="left">
-    - 🔭 I’m Trina, working as Frontend Developer 👩🏾‍💻.<br>
-    - 📚 I'm currently learning Python.<br>
-    - ⚡ In my free time I practice coding in HackerRank. Learn from freeCodeCamp.<br>
-    - 🔖 I love reading reading books.
+    👩🏾‍💻 Hi there! I'm Trina, a Frontend Developer.<br>
+    📚 Currently exploring Python and sharpening coding skills on HackerRank.<br>
+    ⚡ I spend my free time on freeCodeCamp, creating frontend projects, and diving into new coding challenges.<br>
+    🔖 Besides coding, I'm passionate about reading books and expanding my knowledge.<br>
+    🌟 Let's connect and collaborate on exciting projects!
 </p>
 
 ###
