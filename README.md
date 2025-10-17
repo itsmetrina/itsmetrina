@@ -1,15 +1,15 @@
 ###
 
 <h1 align="center">Hi 👋, I'm Trina Sikdar</h1>
-<h3 align="center">A frontend developer from India</h3>
+<h6 align="center">A frontend developer from India</h6>
 
-<p align="left">
-    👩🏾‍💻 Hi there! I'm Trina, a Frontend Developer.<br>
-    📚 Currently exploring Redux and also sharpening coding skills on HackerRank.<br>
-    ⚡ I spend my free time on freeCodeCamp, creating frontend projects, and diving into new coding challenges.<br>
-    🔖 Besides coding, I'm passionate about reading books and expanding my knowledge.<br>
-    🌟 Let's connect and collaborate on exciting projects!
-</p>
+- 🔭 I’m currently working on [Netflix Clone](https://github.com/itsmetrina/netflix)
+- 🌱 I’m currently learning **Advanced React patterns, CI/CD automation and LLM integrations**
+- 👨‍💻 All of my projects are available at [Trina's Porfolio](https://itsmetrina.github.io/Trina-Sikdar/)
+- 📝 I regularly write articles on [medium.com/@trinasikdar](https://medium.com/@trinasikdar)
+- 💬 Ask me about **React, Angular, Zustand, RxJS, TailwindCSS, Node.js, REST APIs, Python**
+- 📫 How to reach me **trinasikdar2000@gmail.com**
+- ⚡ Fun fact **I think I'm lazy 🦥**
 
 ###
 
