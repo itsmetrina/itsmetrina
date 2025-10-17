@@ -1,5 +1,8 @@
 ###
 
+<h1 align="center">Hi 👋, I'm Trina Sikdar</h1>
+<h3 align="center">A frontend developer from India</h3>
+
 <p align="left">
     👩🏾‍💻 Hi there! I'm Trina, a Frontend Developer.<br>
     📚 Currently exploring Redux and also sharpening coding skills on HackerRank.<br>
