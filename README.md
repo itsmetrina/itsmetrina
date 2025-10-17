@@ -19,20 +19,23 @@
 
 <div align="left">
     <a href="https://www.linkedin.com/in/trina-sikdar/" target="_blank">
-        [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
+        <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff"
+            height="25" alt="linkedin logo" />
     </a>
     <a href="https://www.hackerrank.com/profile/trinasikdar/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"
             height="25" alt="hackerrank logo" />
     </a>
     <a href="https://www.freecodecamp.org/trinasikdar/" target="_blank">
-        [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
+        <img src="https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff"
+            height="25" alt="freeCodeCamp logo" />
     </a>
     <a href="https://medium.com/@trinasikdar" target="_blank">
-        [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
+        <img src="https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white"
+            height="25" alt="medium logo" />
     </a>
     <a href="trinasikdar2000@gmail.com" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
+        <img src="https://img.shields.io/badge/Gmail-D14836?logo=gmail&logoColor=white"
             height="25" alt="gmail logo" />
     </a>
 </div>
