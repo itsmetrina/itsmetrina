@@ -36,6 +36,28 @@
 
 ###
 
+[![Angular](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg)](https://angular.io)
+[![React](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg)](https://reactjs.org/)
+[![JavaScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![TypeScript](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg)](https://www.typescriptlang.org/)
+[![Python](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg)](https://www.python.org)
+[![RxJS](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/rxjs/rxjs-original.svg)](https://rxjs.dev/)
+[![Node.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-original.svg)](https://nodejs.org)
+[![HTML5](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg)](https://www.w3.org/html/)
+[![CSS3](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg)](https://www.w3schools.com/css/)
+[![Sass](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg)](https://sass-lang.com)
+[![Tailwind](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg)](https://tailwindcss.com/)
+[![MongoDB](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg)](https://www.mongodb.com/)
+[![PostgreSQL](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg)](https://www.postgresql.org)
+[![Chart.js](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/chartjs/chartjs-original.svg)](https://www.chartjs.org)
+[![Figma](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/figma/figma-original.svg)](https://www.figma.com/)
+[![Framer](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/framermotion/framermotion-original.svg)](https://www.framer.com/)
+[![Git](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg)](https://git-scm.com/)
+[![GitHub](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg)](https://github.com/)
+[![Photoshop](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/photoshop/photoshop-original.svg)](https://www.photoshop.com/en)
+[![Postman](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postman/postman-original.svg)](https://postman.com)
+[![Azure](https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azure/azure-original.svg)](https://azure.microsoft.com/en-in/)
+
 <p align="left">
     <a href="https://angular.io" target="_blank" rel="noreferrer">
         <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="angular" width="40" height="40" />
