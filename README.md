@@ -13,18 +13,23 @@
 
 ###
 
+<h3 align="left">🛠 Connect with me</h3>
+
+###
+
 <div align="left">
     <a href="https://www.linkedin.com/in/trina-sikdar/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge"
-            height="25" alt="linkedin logo" />
+        [![LinkedIn](https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff)](#)
     </a>
     <a href="https://www.hackerrank.com/profile/trinasikdar/" target="_blank">
         <img src="https://img.shields.io/static/v1?message=HackerRank&logo=hackerrank&label=&color=2EC866&logoColor=white&labelColor=&style=for-the-badge"
             height="25" alt="hackerrank logo" />
     </a>
     <a href="https://www.freecodecamp.org/trinasikdar/" target="_blank">
-        <img src="https://img.shields.io/static/v1?message=freeCodeCamp&logo=freecodecamp&label=&color=0A0A23&logoColor=white&labelColor=&style=for-the-badge"
-            height="25" alt="freeCodeCamp logo" />
+        [![freeCodeCamp](https://img.shields.io/badge/freeCodeCamp-0A0A23?logo=freecodecamp&logoColor=fff)](#)
+    </a>
+    <a href="https://medium.com/@trinasikdar" target="_blank">
+        [![Medium](https://img.shields.io/badge/Medium-black?logo=medium&logoColor=white)](#)
     </a>
     <a href="trinasikdar2000@gmail.com" target="_blank">
         <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge"
