@@ -1,6 +1,7 @@
 ###
 
-<h1 align="center">Hi 👋, I'm Trina Sikdar</h1>
+<h4 align="center">Hi 👋</h4>
+<h1 align="center">I'm Trina Sikdar</h1>
 <h6 align="center">A frontend developer from India</h6>
 
 - 🔭 I’m currently working on [Netflix Clone](https://github.com/itsmetrina/netflix)
