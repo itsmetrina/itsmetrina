@@ -27,7 +27,7 @@
 </div>
 
 ### :fire: Streaks 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghoshsuman845)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=itsmetrina)](https://git.io/streak-stats)
 
 ### :hammer_and_wrench: Languages and Tools
 <div align="left">
