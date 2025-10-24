@@ -1,6 +1,6 @@
 ###
 
-<h4 align="center">Hi 👋</h4>
+<h3 align="center">Hey! <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/></h3>
 <h1 align="center">I'm Trina Sikdar</h1>
 <h6 align="center">A frontend developer from India</h6>
 
