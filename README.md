@@ -12,12 +12,7 @@
 - 📫 How to reach me **trinasikdar2000@gmail.com**
 - ⚡ Fun fact **I think I'm lazy 🦥**
 
-###
-
-<h3 align="left">🛠 Connect with me</h3>
-
-###
-
+### :coffee: Hit Me Up Here
 <div align="left">
     <a href="https://www.linkedin.com/in/trina-sikdar/" target="_blank">
         <img src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0A66C2?logo=linkedin-white&logoColor=fff" height="25" alt="linkedin logo" />
@@ -31,12 +26,10 @@
     </a>
 </div>
 
-###
+### :fire: Streaks 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ghoshsuman845)](https://git.io/streak-stats)
 
-<h3 align="left">🛠 Language and tools</h3>
-
-###
-
+### :hammer_and_wrench: Languages and Tools
 <div align="left">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" alt="Angular" width="40" height="40"/>
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" alt="React" width="40" height="40"/>
