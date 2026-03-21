@@ -4,7 +4,7 @@
 <h1 align="center">I'm Trina Sikdar</h1>
 <h6 align="center">A frontend developer from India</h6>
 
-- 🔭 I’m currently working on [SmartNotes](https://github.com/itsmetrina/smartnotes)
+<!-- 🔭 I’m currently working on [SmartNotes](https://github.com/itsmetrina/smartnotes) -->
 - 🌱 I’m currently learning **Advanced React patterns, CI/CD automation and LLM integrations**
 - 👨‍💻 All of my projects are available at [Trina's Porfolio](https://itsmetrina.github.io/Trina-Sikdar/)
 - 📝 I regularly write articles on [medium.com/@trinasikdar](https://medium.com/@trinasikdar)
